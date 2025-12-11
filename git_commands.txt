@@ -22,3 +22,28 @@
    ls
    git status
    git restore testing.py
+
+   git remote add origin https://github.com/Its-Hari-Kishan/github-for-devops-workshop.git       
+   git remote -v
+   git remote set-url origin https://token@github.com/Its-Hari-Kishan/github-for-devops-workshop.git
+   git remote -v
+   git push origin master
+   git push origin main
+   clear
+   cd D
+   cd d?
+   cd D/
+   cd D:\Shubham Git and GitHub
+   cd D:/
+   cd Shubham\ Git\ and\ GitHub/
+   mkdir git-clone-demo
+   ls
+   cd git-clone-demo/
+   clear
+   ls
+   git clone https://github.com/Its-Hari-Kishan/github-for-devops-workshop.git
+   ls
+   cd github-for-devops-workshop/
+   ls
+   clear
+   history

@@ -6,3 +6,5 @@ def my_function():
     return d
 
 my_function()
+
+test()

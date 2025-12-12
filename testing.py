@@ -1,2 +1,8 @@
-print("Hello dosto")
-print("Hello, I am a test file.")
+def greet():
+
+    """Function to greet the user"""
+
+    return "Hello dosto"
+
+
+print(greet())

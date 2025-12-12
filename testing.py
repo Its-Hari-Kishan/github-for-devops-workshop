@@ -1,6 +1,9 @@
 def greet():
 
-    """Function to greet the user"""
+    """
+    Function to greet the user
+    
+    """
 
     return "Hello dosto"
 
